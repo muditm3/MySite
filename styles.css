@@ -1,0 +1,191 @@
+.top-container
+{
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.profilePic
+{
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+h1
+{
+  font-size: 90px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-top: 100px;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2
+{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #66BFBF;
+}
+
+h3
+{
+  font-family: 'Rock Salt', cursive;
+  color: #11999E;
+}
+
+a
+{
+  color: #11999E;
+}
+
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Alata', sans-serif;
+  padding: 0;
+}
+
+.middle-container
+{
+
+}
+
+.bottom-container
+{
+  margin-top: 50px;
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  position: relative;
+}
+
+.top-cloud
+{
+  position: absolute;
+  margin-top: 0;
+  margin-left: 100px;
+  padding-top: 50px;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+}
+
+.subtitle
+{
+  font-family: 'Lexend Peta', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+.title
+{
+  padding-top: 150px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.programmer
+{
+  width: 60%;
+  border-radius: 8px;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 100px;
+}
+
+.dottedLine
+{
+  border-style: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-color: #EAF6F6;
+  border-width: .5em;
+  width: 10%;
+  margin: 100px auto 100px auto;
+}
+
+.helloText
+{
+  color: #40514E;
+}
+
+.orator
+{
+  width: 40%;
+  border-radius: 8px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row
+{
+  width: 40%;
+  margin: 100px auto 100px auto;
+}
+
+.text
+{
+  text-align: left;
+}
+
+.para
+{
+  line-height: 2;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 20px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.last
+{
+  padding-top: 50px;
+  font-size: 10px;
+  color: white;
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+
+.footer-link
+{
+  position: relative;
+  top: 20px;
+}
+
+.bottomHR
+{
+  position: relative;
+  top: 15px;
+}
